@@ -1,2 +1,0 @@
-# cleartech
-sample website
