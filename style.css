@@ -1,0 +1,55 @@
+body {
+    background-image: url("bg.png");
+}
+
+.container {
+    display: flex;
+}
+
+.heading {
+    justify-content: center;
+    align-items: center;
+}
+
+.container h1 {
+    color: white;
+}
+.container h3 {
+    margin-right: 20px;
+    
+}
+
+
+.marq{
+    font-size: 40px;
+    color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.container a{
+    color:skyblue;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+.nonlinear {
+    display: block;
+}
+
+p {
+    color: wheat;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, li {
+    color: wheat;
+    font-size: 20px;
+}
